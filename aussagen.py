@@ -1,0 +1,2 @@
+# aussagen.py
+
